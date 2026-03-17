@@ -8,3 +8,5 @@ Para startar vamos usar
 npm run.
 
 Inclui novas linhas no arquivo
+
+Outro desenvolvedor fez uma modificação num arquivo.
