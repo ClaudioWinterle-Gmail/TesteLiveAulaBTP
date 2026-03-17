@@ -6,3 +6,5 @@ npm i.
 
 Para startar vamos usar 
 npm run.
+
+Inclui novas linhas no arquivo
